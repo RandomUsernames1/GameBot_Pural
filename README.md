@@ -112,7 +112,3 @@ This project is open-source and available under the MIT License.
 
 ---
 
-Once you save it as `README.md`, it’s ready to use on GitHub.  
-
-If you want, I can also make a **version with example bot outputs** so your README looks more lively on GitHub. Do you want me to do that next?
-```
