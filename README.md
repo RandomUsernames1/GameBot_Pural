@@ -52,7 +52,7 @@ GameBot is a fun interactive chat bot for [Hack.Chat](https://hack.chat/) that a
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/gamebot.git
+git clone https://github.com/RandomUsernames1/gamebot.git
 cd gamebot
 ````
 
@@ -65,7 +65,7 @@ npm install ws
 3. Run the bot:
 
 ```bash
-node bot.js
+node GameBot_Pural.js
 ```
 
 > The bot will automatically join the `lounge` channel with the nickname `GameBot_Pural`.
