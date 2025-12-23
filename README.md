@@ -1,8 +1,3 @@
-I don’t have the ability to create files directly on your computer, but I can give you a ready-to-copy file content. Here’s exactly what to do:
-
-1. Open a text editor (like Notepad, VS Code, Sublime, or any editor).
-2. Create a new file and name it: `README.md`
-3. Copy **everything below** into that file:
 
 ---
 
